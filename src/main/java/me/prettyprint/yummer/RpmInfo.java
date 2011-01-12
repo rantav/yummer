@@ -1,4 +1,4 @@
-package com.outbrain.yummer;
+package me.prettyprint.yummer;
 
 /**
  * Details of an RPM file.

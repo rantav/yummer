@@ -1,4 +1,4 @@
-package com.outbrain.yummer;
+package me.prettyprint.yummer;
 
 import java.io.IOException;
 import java.io.InputStream;

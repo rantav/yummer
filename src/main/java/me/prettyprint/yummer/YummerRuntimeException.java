@@ -1,4 +1,4 @@
-package com.outbrain.yummer;
+package me.prettyprint.yummer;
 
 @SuppressWarnings("serial")
 public class YummerRuntimeException extends Exception {
